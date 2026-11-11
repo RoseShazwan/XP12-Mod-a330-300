@@ -94,3 +94,6 @@ In first-person mode, interacting with cockpit controls can be cumbersome, as pl
 This application aims to address that limitation by providing dedicated touchscreen control panels for essential aircraft systems. Players can operate these controls directly from a separate touchscreen device without having to constantly navigate the virtual cockpit.
 
 Ultimately, the goal is to provide a more convenient and immersive flying experience, allowing players to focus on operating the aircraft rather than searching for cockpit controls.
+
+
+### Source code is currently private and I am not open for collab as of now (most probably in the future). APK will be uploaded here
